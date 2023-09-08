@@ -1,0 +1,42 @@
+{
+    "products":[
+
+    {
+        "id": 1,
+        "name": "PC personalizada",
+        "price": 100.00,
+        "image": "../media/boxpc.png"
+    },
+    {
+        "id": 2,
+        "name": "Monitor",
+        "price": 30.00,
+        "image": "../media/monitor.png"
+    },
+    {
+        "id": 3,
+        "name": "Teclado mecánico",
+        "price": 10.00,
+        "image": "../media/teclado.png"
+    },
+    {
+        "id": 4,
+        "name": "Parlantes HiFi",
+        "price": 70.00,
+        "image": "../media/parlantes.png"
+    },
+    {
+        "id": 5,
+        "name": "Auriculares vincha",
+        "price": 10.00,
+        "image": "../media/auriculares.png"
+    },
+    {
+        "id": 6,
+        "name": "Celular android",
+        "price": 80.00,
+        "image": "../media/celuventa.png"
+    }
+]
+
+ }
